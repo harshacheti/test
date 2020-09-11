@@ -2718,8 +2718,8 @@
 		position: absolute;
 		width: 931px;
 		height: 876px;
-		left: 309px;
-		top: -353px;
+		left: 314px;
+		top: -379px;
 		overflow: visible;
 	}
 	#Path_28 {
@@ -2730,8 +2730,8 @@
 		position: absolute;
 		width: 931.19px;
 		height: 875.559px;
-		left: 293.03px;
-		top: -338.46px;
+		left: 279.03px;
+		top: -360.46px;
 		transform: matrix(1,0,0,1,0,0);
 	}
 	#Ellipse_69 {
@@ -2742,8 +2742,8 @@
 		overflow: visible;
 		width: 932px;
 		height: 876px;
-		left: 278px;
-		top: -327px;
+		left: 273px;
+		top: -344px;
 	}
 	#Rectangle_65 {
 		fill: rgba(246,94,93,1);
@@ -7465,22 +7465,22 @@
 	}
 	#Home_qd {
 		left: 99px;
-		top: 3375px;
+		top: 3377px;
 		position: absolute;
 		overflow: visible;
-		width: 23px;
+		width: 17px;
 		white-space: nowrap;
 		text-align: left;
 		font-family: Martel;
 		font-style: normal;
 		font-weight: bold;
-		font-size: 7px;
+		font-size: 5px;
 		color: rgba(255,255,255,1);
 	}
 	#Ellipse_48 {
 		fill: transparent;
 		stroke: rgba(255,255,255,1);
-		stroke-width: 2px;
+		stroke-width: 0.5px;
 		stroke-linejoin: miter;
 		stroke-linecap: butt;
 		stroke-miterlimit: 4;
@@ -7491,12 +7491,12 @@
 		overflow: visible;
 		width: 8px;
 		height: 8px;
-		left: 21px;
-		top: 3409px;
+		left: 22px;
+		top: 3408px;
 	}
 	#c_qf {
-		left: 23px;
-		top: 3410px;
+		left: 25px;
+		top: 3408px;
 		position: absolute;
 		overflow: visible;
 		width: 3px;
@@ -7509,64 +7509,8 @@
 		color: rgba(255,255,255,1);
 	}
 	#_2020_Translate_qg {
-		left: 29px;
-		top: 3408px;
-		position: absolute;
-		overflow: visible;
-		width: 49px;
-		white-space: nowrap;
-		text-align: left;
-		font-family: Martel;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 6px;
-		color: rgba(255,255,255,1);
-	}
-	#Benefits_qh {
-		left: 131px;
-		top: 3375px;
-		position: absolute;
-		overflow: visible;
-		width: 32px;
-		white-space: nowrap;
-		text-align: left;
-		font-family: Martel;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 7px;
-		color: rgba(255,255,255,1);
-	}
-	#Services_qi {
-		left: 169px;
-		top: 3375px;
-		position: absolute;
-		overflow: visible;
-		width: 31px;
-		white-space: nowrap;
-		text-align: left;
-		font-family: Martel;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 7px;
-		color: rgba(255,255,255,1);
-	}
-	#Reviews_qj {
-		left: 206px;
-		top: 3375px;
-		position: absolute;
-		overflow: visible;
-		width: 31px;
-		white-space: nowrap;
-		text-align: left;
-		font-family: Martel;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 7px;
-		color: rgba(255,255,255,1);
-	}
-	#Contacts_qk {
-		left: 244px;
-		top: 3375px;
+		left: 31px;
+		top: 3409px;
 		position: absolute;
 		overflow: visible;
 		width: 33px;
@@ -7575,11 +7519,67 @@
 		font-family: Martel;
 		font-style: normal;
 		font-weight: bold;
-		font-size: 7px;
+		font-size: 4px;
+		color: rgba(255,255,255,1);
+	}
+	#Benefits_qh {
+		left: 131px;
+		top: 3377px;
+		position: absolute;
+		overflow: visible;
+		width: 23px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Martel;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 5px;
+		color: rgba(255,255,255,1);
+	}
+	#Services_qi {
+		left: 169px;
+		top: 3377px;
+		position: absolute;
+		overflow: visible;
+		width: 23px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Martel;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 5px;
+		color: rgba(255,255,255,1);
+	}
+	#Reviews_qj {
+		left: 206px;
+		top: 3377px;
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Martel;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 5px;
+		color: rgba(255,255,255,1);
+	}
+	#Contacts_qk {
+		left: 244px;
+		top: 3377px;
+		position: absolute;
+		overflow: visible;
+		width: 24px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Martel;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 5px;
 		color: rgba(255,255,255,1);
 	}
 	#_abcdemediagmailcom_ql {
-		left: 307px;
+		left: 302px;
 		top: 3376px;
 		position: absolute;
 		overflow: visible;
@@ -7614,7 +7614,7 @@
 		position: absolute;
 		width: 5.91px;
 		height: 5.91px;
-		left: 312.322px;
+		left: 310.322px;
 		top: 3391.012px;
 		transform: matrix(1,0,0,1,0,0);
 	}
@@ -7722,14 +7722,14 @@
 		position: absolute;
 		width: 9.261px;
 		height: 7.408px;
-		left: 295.362px;
+		left: 292.362px;
 		top: 3377.207px;
 		overflow: visible;
 	}
 	#Path_16_qx {
 		fill: transparent;
 		stroke: rgba(255,255,255,1);
-		stroke-width: 2px;
+		stroke-width: 1px;
 		stroke-linejoin: round;
 		stroke-linecap: round;
 		stroke-miterlimit: 4;
@@ -7738,8 +7738,8 @@
 	.Path_16_qx {
 		overflow: visible;
 		position: absolute;
-		width: 11.26px;
-		height: 9.408px;
+		width: 10.26px;
+		height: 8.408px;
 		left: 0px;
 		top: 0px;
 		transform: matrix(1,0,0,1,0,0);
@@ -7747,7 +7747,7 @@
 	#Path_17_qy {
 		fill: transparent;
 		stroke: rgba(255,255,255,1);
-		stroke-width: 2px;
+		stroke-width: 1px;
 		stroke-linejoin: round;
 		stroke-linecap: round;
 		stroke-miterlimit: 4;
@@ -7756,8 +7756,8 @@
 	.Path_17_qy {
 		overflow: visible;
 		position: absolute;
-		width: 12.046px;
-		height: 5.634px;
+		width: 10.653px;
+		height: 4.438px;
 		left: 0px;
 		top: 0.926px;
 		transform: matrix(1,0,0,1,0,0);
